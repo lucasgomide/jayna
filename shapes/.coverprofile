@@ -1,0 +1,24 @@
+mode: set
+github.com/lucasgomide/jayna/shapes/csv.go:11.62,13.16 2 1
+github.com/lucasgomide/jayna/shapes/csv.go:16.2,19.24 3 1
+github.com/lucasgomide/jayna/shapes/csv.go:24.2,24.20 1 1
+github.com/lucasgomide/jayna/shapes/csv.go:13.16,15.3 1 1
+github.com/lucasgomide/jayna/shapes/csv.go:20.2,21.39 1 1
+github.com/lucasgomide/jayna/shapes/csv.go:27.45,29.2 1 1
+github.com/lucasgomide/jayna/shapes/json.go:12.85,13.55 1 0
+github.com/lucasgomide/jayna/shapes/json.go:17.2,22.23 2 0
+github.com/lucasgomide/jayna/shapes/json.go:27.2,27.20 1 0
+github.com/lucasgomide/jayna/shapes/json.go:13.55,15.3 1 0
+github.com/lucasgomide/jayna/shapes/json.go:23.2,24.42 1 0
+github.com/lucasgomide/jayna/shapes/json.go:30.60,37.36 5 0
+github.com/lucasgomide/jayna/shapes/json.go:46.2,48.16 2 0
+github.com/lucasgomide/jayna/shapes/json.go:52.2,52.15 1 0
+github.com/lucasgomide/jayna/shapes/json.go:37.36,40.37 3 0
+github.com/lucasgomide/jayna/shapes/json.go:43.3,43.34 1 0
+github.com/lucasgomide/jayna/shapes/json.go:40.37,42.4 1 0
+github.com/lucasgomide/jayna/shapes/json.go:48.16,50.3 1 0
+github.com/lucasgomide/jayna/shapes/json.go:55.45,57.2 1 0
+github.com/lucasgomide/jayna/shapes/json.go:59.60,60.43 1 0
+github.com/lucasgomide/jayna/shapes/json.go:65.2,65.63 1 0
+github.com/lucasgomide/jayna/shapes/json.go:60.43,61.17 1 0
+github.com/lucasgomide/jayna/shapes/json.go:61.17,63.4 1 0
